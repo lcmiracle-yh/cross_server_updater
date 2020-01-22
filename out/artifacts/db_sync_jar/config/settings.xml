@@ -8,8 +8,7 @@
 		<uri>jdbc:mysql://113.16.195.18:3307/cgx_zcgl?characterEncoding=UTF-8&amp;useUnicode=true&amp;useSSL=false</uri>
 		<username>root</username>
 		<password>12345678</password>
-	</source>
-    <target>
+	</source>	<target>
 		<uri>jdbc:mysql://113.16.195.18:3307/cgx_zcgl2?characterEncoding=UTF-8&amp;useUnicode=true&amp;useSSL=false</uri>
 		<username>root</username>
 		<password>12345678</password>

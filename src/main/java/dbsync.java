@@ -61,7 +61,7 @@ public class dbsync {
                                 "\t\t<uri>jdbc:mysql://113.16.195.18:3307/cgx_zcgl?characterEncoding=UTF-8&amp;useUnicode=true&amp;useSSL=false</uri>\n" +
                                 "\t\t<username>root</username>\n" +
                                 "\t\t<password>12345678</password>\n" +
-                                "\t</source>" +
+                                "\t</source>\n" +
                                 "\t<target>\n" +
                                 "\t\t<uri>jdbc:mysql://113.16.195.18:3307/cgx_zcgl2?characterEncoding=UTF-8&amp;useUnicode=true&amp;useSSL=false</uri>\n" +
                                 "\t\t<username>root</username>\n" +
