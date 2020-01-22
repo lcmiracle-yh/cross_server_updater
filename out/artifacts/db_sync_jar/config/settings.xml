@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<warning_level>
+		<value>2</value>
+		<comments>显示DEBUG消息：0-无，1-错误，2-全部</comments>
+	</warning_level>
+	<source>
+		<uri>jdbc:mysql://113.16.195.18:3307/cgx_zcgl?characterEncoding=UTF-8&amp;useUnicode=true&amp;useSSL=false</uri>
+		<username>root</username>
+		<password>12345678</password>
+	</source>	<target>
+		<uri>jdbc:mysql://113.16.195.18:3307/cgx_zcgl2?characterEncoding=UTF-8&amp;useUnicode=true&amp;useSSL=false</uri>
+		<username>root</username>
+		<password>12345678</password>
+	</target>
+	<start_time>
+		<hours>15</hours>
+		<minutes>45</minutes>
+		<seconds>0</seconds>
+		<comment>更新初始时间：时-分-秒</comment>
+	</start_time>
+	<update_interval>
+		<seconds>86400</seconds>
+		<comment>更新间断时长（秒）。</comment>
+	</update_interval>
+	<debug_quick_start>
+		<on>false</on>
+		<comment>测试：立刻更新</comment>
+	</debug_quick_start>
+</settings>

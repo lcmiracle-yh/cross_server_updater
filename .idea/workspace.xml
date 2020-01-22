@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="db-sync:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2f0f1df-3f1a-4612-a3e8-b002c005c5e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VjDzyUbSJDcAttM1kocktr2XWb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/packed" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Github\shuziguangxi\db-sync\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dbsync" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dbsync" />
+      <module name="db-sync" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="assembly:single" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2f0f1df-3f1a-4612-a3e8-b002c005c5e2" name="Default Changelist" comment="" />
+      <created>1577757877323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577757877323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Project_Structure" timestamp="1579678789242">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1579678789242" />
+    <state x="414" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579596904731">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579596904731" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1577763027747">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1577763027747" />
+    <state x="711" y="377" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579597106012">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="711" y="377" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579597106012" />
+    <state x="683" y="215" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1577777158616">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="683" y="215" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577777158616" />
+    <state x="687" y="335" key="FileChooserDialogImpl" timestamp="1579597189399">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="687" y="335" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1579597189399" />
+    <state width="1877" height="376" key="GridCell.Tab.0.bottom" timestamp="1579680112300">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1579680112300" />
+    <state width="1877" height="376" key="GridCell.Tab.0.center" timestamp="1579680112300">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1579680112300" />
+    <state width="1877" height="376" key="GridCell.Tab.0.left" timestamp="1579680112299">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1579680112299" />
+    <state width="1877" height="376" key="GridCell.Tab.0.right" timestamp="1579680112300">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579680112300" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1579515046183">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1579515046183" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1579515046183">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1579515046183" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1579515046183">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1579515046183" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1579515046183">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579515046183" />
+    <state x="490" y="181" key="Maven.ArtifactSearchDialog" timestamp="1579597612130">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="181" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579597612130" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1579597194936">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1579597194936" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1579676200229">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1579676200229" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1579419544356">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1579419544356" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="record_id" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
